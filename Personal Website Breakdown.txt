@@ -1,0 +1,14 @@
+Highlights-Personal work experience
+                    -Images of work done over the years
+                    -Links to relevant platforms
+                    -Organisations I am affiliated and have worked in/with
+                    -Hobbies 
+                    -Projects(Done and Complete)
+                    -Blogger Page
+                    -Calendly link
+
+Components-Figma files
+                          -Code(Frontend and backend)
+                          -Deployment platform
+                          -Project management tracking(For projects)
+                    
