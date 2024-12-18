@@ -6,6 +6,7 @@ Highlights-Personal work experience
                     -Projects(Done and Complete)
                     -Blogger Page
                     -Calendly link
+                    -Testimonials
 
 Components-Figma files
                           -Code(Frontend and backend)
